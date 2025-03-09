@@ -7,6 +7,4 @@ def nuke(n):
         else:
             a.append(i)
     return a
-nuke(10)print(nuke(5))
-
 print(nuke(5))
