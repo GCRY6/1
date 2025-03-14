@@ -1,4 +1,5 @@
 import turtle as t 
-while True:
-    t.forward(1)
-    t.left(1)
+for i in range(72):
+    t.forward(10)
+    t.left(5)
+t.done()
